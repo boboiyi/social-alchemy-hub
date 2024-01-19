@@ -1,7 +1,5 @@
 ---
-title: "social-alchemy-hub"
+title: "Social Alchemy Hub"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Powered by [Quarto](https://quarto.org/docs/websites)

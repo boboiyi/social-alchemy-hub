@@ -1,5 +1,28 @@
 ---
-title: "About"
+title: "Artem Ohanian"
+toc: false
+about: 
+   template: trestles
+   image: Фото.jpg
+   image-shape: rounded
+   image-width: 15em
+   links:
+    - text: Mail
+      href: mailto::merlauter@gmail.com
+    - text: GitHub
+      href: https://github.com/boboiyi 
 ---
+### Hi there!
+Welcome to my personal website dedicated to all things social and statistical. Feel free to explore what I do and contact me for any inquiries.
+---
+### Work
+Research Intern at International Laboratory for Applied Network Research (HSE, Moscow) | **2023 - present**
 
-About this site
+Research Intern at International Laboratory for Social Integration Research HSE Moscow | **2022-2023**
+
+Research Intern at Center for Cultural Sociology HSE Moscow | **2021**
+
+### Education
+MS in Comparative Social Research, Ronald F. Inglehart Laboratory for Comparative Social Research (HSE, Moscow) | **2022-2024**
+
+BS in Sociology, Faculty of Social Sciences (HSE, Moscow) | **2018-2022**
